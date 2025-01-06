@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735793951 source:z:\111nasw\daspro\dasar pemrograman\tm11\4105 adt mhs\main.cpp
+	<iostream>
+
+1735795000 source:z:\111nasw\daspro\dasar pemrograman\tm11\4105 adt mhs\pustaka.cpp
+	"header.h"
+
+1735795070 z:\111nasw\daspro\dasar pemrograman\tm11\4105 adt mhs\header.h
+	<iostream>
+
